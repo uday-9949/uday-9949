@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3ba10df8-c1e3-4993-a2d8-86d3af428d0a)
+[![MasterHead]![image](https://github.com/user-attachments/assets/3ba10df8-c1e3-4993-a2d8-86d3af428d0a)]
 
 <h1 align="center">Hi 👋, I'm PULI UDAY KIRAN</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
