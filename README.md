@@ -1,4 +1,4 @@
-[![MasterHead]((https://lottiefiles.com/free-animation/happy-coding-XgYW8wYMw7?from=search))]
+https://lottiefiles.com/free-animation/happy-coding-XgYW8wYMw7?from=search
 <h1 align="center">Hi 👋, I'm PULI UDAY KIRAN</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 I'm a Self motivated & Aspiring Full-Stack-Web developer And Data Science Engineer with hands on experience. Proficient in creating user centric and ready to use products using MERN stack. Looking for a challenging roll in a growth oriented organisation.
