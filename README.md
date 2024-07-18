@@ -1,8 +1,10 @@
-https://lottiefiles.com/free-animation/happy-coding-XgYW8wYMw7?from=search
+![image](https://github.com/user-attachments/assets/3ba10df8-c1e3-4993-a2d8-86d3af428d0a)
+
 <h1 align="center">Hi 👋, I'm PULI UDAY KIRAN</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 I'm a Self motivated & Aspiring Full-Stack-Web developer And Data Science Engineer with hands on experience. Proficient in creating user centric and ready to use products using MERN stack. Looking for a challenging roll in a growth oriented organisation.
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+![image](https://github.com/user-attachments/assets/ba875b07-b165-4233-a45f-9d42ed3f6cb7)
+
 - 🤝🏻 I’m Looking to collaborate on WebDev Projects,Machine learning projects
 -👩‍💻 Currently looking for job opportunities in Mern stack and Data Science
 - 📫 How to reach me **puliudaykiran1234@gmail.com**
