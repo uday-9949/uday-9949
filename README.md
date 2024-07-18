@@ -2,7 +2,8 @@
 ) -->
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 <div align="center"> 
-<img align="center" style="border-radius:10%" width="50%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"/>
+<img align="center" style="border-radius:10%" width="50%" src="![image](https://github.com/user-attachments/assets/9ec06421-d67d-4752-b30c-dfdeb85fb643)
+"/>
 </div>
 
 <!---------------------------------- Heading Section ----------------------------------->
